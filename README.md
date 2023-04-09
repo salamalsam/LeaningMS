@@ -1,3 +1,21 @@
+<h2>Multi Auth Application</h2>
+<p>This applicaiton has been developed with the builtin package of the laravel, The package which one in used in the this Applicaiton is Auth, In this applicaiton i have developed custom middleware for the three different roles, students, teacher, admin</p>
+<ul>
+    <li>To Run the Applicaiton please Migrate, Seeds the applicaiton first</li>
+</ul>
+<h3>Applicaiton Requirements</h3>
+<pre>
+Create a Laravel Multi Auth App and create a simple dashboard for different user types.
+Excepted user types are mentioned below
+Admin, Teacher, Student.
+All users can access their specific routes only.
+Create a simple CRUD menu for Courses.
+Only Admin & Teacher can do create, Read, update & delete operations, 
+While Student can only view this entity.
+Note: You can use laravel built-in packages to accomplish the task
+</pre>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
